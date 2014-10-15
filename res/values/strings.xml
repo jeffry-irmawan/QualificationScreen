@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QualificationScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="test">{
+      "currencies": {
+        "id": 2,
+        "iso4217_code": "IDR"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 5,
+      "description": null,
+      "organization_id": 487,
+      "name": "Finnet ATM Transfer",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "finnet-atm-transfer",
+      "payment_flow_type": 3,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/ATM-transfer.png",
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 2,
+        "iso4217_code": "IDR"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": "510",
+      "meta": null,
+      "id": 6,
+      "description": null,14
+      "organization_id": 488,
+      "name": "T-Cash",
+      "sort_priority": 1,
+      "mnc": "10",
+      "slug": "t-cash",
+      "payment_flow_type": 3,
+      "sms_number": "2828",
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/T-cash.png",
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 3,
+        "iso4217_code": "PTS"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 9,
+      "description": null,
+      "organization_id": 489,
+      "name": "SCOOP Point",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "scoop-point",
+      "payment_flow_type": 4,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": null,
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 1,
+        "iso4217_code": "USD"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 15,
+      "description": null,
+      "organization_id": 494,
+      "name": "Google In-App Billing",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "google-in-app-billing",
+      "payment_flow_type": 5,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/googleplay.png",
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 1,
+        "iso4217_code": "USD"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 2,
+      "description": null,
+      "organization_id": 486,
+      "name": "Paypal",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "paypal",
+      "payment_flow_type": 6,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/paypal_1.png",
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 2,
+        "iso4217_code": "IDR"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 11,
+      "description": null,
+      "organization_id": 490,
+      "name": "mandiri clickpay",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "mandiri-clickpay",
+      "payment_flow_type": 4,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/mandiri_clickpay_1.jpg",
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 2,
+        "iso4217_code": "IDR"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 12,
+      "description": null,
+      "organization_id": 491,
+      "name": "Veritrans",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "veritrans",
+      "payment_flow_type": 6,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": null,
+      "clients": null
+    },
+    {
+      "currencies": {
+        "id": 2,
+        "iso4217_code": "IDR"
+      },
+      "icon_image_highres": null,
+      "is_active": true,
+      "mcc": null,
+      "meta": null,
+      "id": 14,
+      "description": "Mandiri E-cash PT DAM dan PT mandiri",
+      "organization_id": 493,
+      "name": "mandiri e-cash",
+      "sort_priority": 1,
+      "mnc": null,
+      "slug": "mandiri-e-cash",
+      "payment_flow_type": 3,
+      "sms_number": null,
+      "cutrule_id": 1,
+      "icon_image_normal": "images\/1\/gateways\/icons\/bank-mandiri.jpg",
+      "clients": null
+    }
+  ]
+}</string>
+
+</resources>
