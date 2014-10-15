@@ -24,7 +24,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         String date = "2014-10-13 13:16:03";
         Calendar calendar = Calendar.getInstance();
-        calendar.set
         txt = (TextView)findViewById(R.id.txt);
         txt.setText(getDownloadSignature(12, 27335, "192461648711", 81285));
     }
