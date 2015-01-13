@@ -56,7 +56,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         txt = (TextView)findViewById(R.id.txt);
-        txt.setText("Build Model=" + Build.MODEL +"\nBuild os = " + Build.VERSION.RELEASE);
+        txt.setText("Build Model=" + Build.MODEL +"\nBuild os = " + Build.VERSION.RELEASE + "test commit");
 //        String file = Environment.getExternalStorageDirectory().getAbsolutePath().toString() + "/ID.txt";
 //        File file = new File(Environment.getExternalStorageDirectory(), "ID.txt");
 //        intent.putExtra(Intent.EXTRA_EMAIL, recipients);
